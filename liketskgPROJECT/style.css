@@ -1,0 +1,35 @@
+body {
+  background: url("https://pibig.info/uploads/posts/2022-11/thumbs/1669087830_4-pibig-info-p-svetlo-korichnevii-tsvet-oboi-5.jpg");
+}
+
+.fl1 {
+  margin-left: 0px;
+  margin-top: 230px;
+  display: flex;
+  list-style-type: none;
+  color: white;
+  flex-direction: column;
+}
+
+.fl2 {
+  margin-left: 600px;
+  margin-top: -110px;
+  display: flex;
+  list-style-type: none;
+  color: white;
+  flex-direction: column;
+}
+
+.fl3 {
+  margin-left: 1200px;
+  margin-top: -120px;
+  display: flex;
+  list-style-type: none;
+  color: white;
+  flex-direction: column;
+}
+
+.footer {
+  position: static;
+  background-color: #272b2e;
+}
